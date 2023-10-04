@@ -1,0 +1,2 @@
+cn.ccl.abu.framework.tracer.config.AbuTracerAutoConfiguration
+cn.ccl.abu.framework.tracer.config.AbuMetricsAutoConfiguration

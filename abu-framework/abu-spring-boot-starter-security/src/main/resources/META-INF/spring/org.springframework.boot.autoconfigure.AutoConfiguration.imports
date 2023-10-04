@@ -1,0 +1,2 @@
+cn.ccl.abu.framework.security.config.AbuSecurityAutoConfiguration
+cn.ccl.abu.framework.security.config.AbuWebSecurityConfigurerAdapter

@@ -1,0 +1,2 @@
+cn.ccl.abu.framework.idempotent.config.AbuIdempotentConfiguration
+cn.ccl.abu.framework.lock4j.config.AbuLock4jConfiguration

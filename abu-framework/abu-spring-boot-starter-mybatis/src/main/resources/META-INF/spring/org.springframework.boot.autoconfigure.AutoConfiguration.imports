@@ -1,0 +1,2 @@
+cn.ccl.abu.framework.datasource.config.AbuDataSourceAutoConfiguration
+cn.ccl.abu.framework.mybatis.config.AbuMybatisAutoConfiguration

@@ -1,0 +1,2 @@
+cn.ccl.abu.framework.redis.config.AbuRedisAutoConfiguration
+cn.ccl.abu.framework.redis.config.AbuCacheAutoConfiguration

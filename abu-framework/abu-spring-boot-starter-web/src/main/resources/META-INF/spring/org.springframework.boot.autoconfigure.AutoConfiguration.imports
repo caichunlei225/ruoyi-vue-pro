@@ -1,0 +1,5 @@
+cn.ccl.abu.framework.apilog.config.AbuApiLogAutoConfiguration
+cn.ccl.abu.framework.jackson.config.AbuJacksonAutoConfiguration
+cn.ccl.abu.framework.swagger.config.AbuSwaggerAutoConfiguration
+cn.ccl.abu.framework.web.config.AbuWebAutoConfiguration
+cn.ccl.abu.framework.xss.config.AbuXssAutoConfiguration
